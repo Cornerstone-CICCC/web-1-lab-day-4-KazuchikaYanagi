@@ -52,4 +52,20 @@ body {
   padding: 0.25rem;
 }
 
+#employees table {
+  background-color: rgb(195, 194, 194);
+  width: 100%;
+}
+#employees #employeeList {
+  width: 100%;
+}
+#employees #employeeList td {
+  text-align: center;
+  background-color: rgb(222, 221, 221);
+  padding: 10px;
+}
+#employees #employeeList td img {
+  width: 75px;
+}
+
 /*# sourceMappingURL=styles.css.map */
